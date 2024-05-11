@@ -49,7 +49,7 @@ npm i
 
 <!-- ## Where can I download `Node.js` ? -->
 
-## <img align=center src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="50"> [Node.js Download](https://nodejs.org/en/download)
+## <img align=center src="./.github/markdown/Node.js.png" width="50"> [Node.js Download](https://nodejs.org/en/download)
 
 
 </div>
