@@ -56,7 +56,7 @@ npm i
 
 </div>
 
-<div align="left">
+<div align="right">
 
 ### [Markdown Senior](https://github.com/jasurhaydarovcode)
 
