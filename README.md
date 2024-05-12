@@ -21,16 +21,16 @@
 
 ## Members of the team
 
-|    №     |  DevName  |   WORK   |
-| -------- | --------  | -------- |
-|    1     |   ?????   |  HEADER  |
-|    2     |   ?????   |  HEADER  |
-|    3     |   ?????   |  HEADER  |
-|    4     |   ?????   |  HEADER  |
-|    5     |   ?????   |  HEADER  |
-|    6     |   ?????   |  HEADER  |
-|    7     |   ?????   |  HEADER  |
-|    8     |   ?????   |  HEADER  |
+|    №     |  DevName  |   WORK   | ✅ Submitted ❌ |
+| -------- | --------  | -------- |                  |
+|    1     |   ?????   |  HEADER  |                  |
+|    2     |   ?????   |  HEADER  |                  |
+|    3     |   ?????   |  HEADER  |                  |
+|    4     |   ?????   |  HEADER  |                  |
+|    5     |   ?????   |  HEADER  |                  |
+|    6     |   ?????   |  HEADER  |                  |
+|    7     |   ?????   |  HEADER  |                  |
+|    8     |   ?????   |  HEADER  |                  |
 
 ## How it Works
 
