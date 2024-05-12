@@ -23,14 +23,14 @@
 
 |    №     |  DevName  |   WORK   | ✅ Submitted ❌ |
 | -------- | --------  | -------- |     --------     |
-|    1     |   ?????   |  HEADER  |                  |
+|    1     |   ?????   |  NAVBAR  |                  |
 |    2     |   ?????   |  HEADER  |                  |
 |    3     |   ?????   |  HEADER  |                  |
 |    4     |   ?????   |  HEADER  |                  |
 |    5     |   ?????   |  HEADER  |                  |
 |    6     |   ?????   |  HEADER  |                  |
 |    7     |   ?????   |  HEADER  |                  |
-|    8     |   ?????   |  HEADER  |                  |
+|    8     |   ?????   |  FOOTER  |                  |
 
 ## How it Works
 
