@@ -1,0 +1,23 @@
+{
+  "name": "md-senior",
+  "version": "1.1.0",
+  "description": "Markdown Senior",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasurhaydarovcode/markdown-senior.git"
+  },
+  "keywords": [
+    "markdown",
+    "senior"
+  ],
+  "author": "Jasurbek Haydarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasurhaydarovcode/markdown-senior/issues"
+  },
+  "homepage": "https://github.com/jasurhaydarovcode/markdown-senior#readme"
+}
